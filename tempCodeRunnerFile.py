@@ -1,8 +1,3 @@
-_profile(filename):
-#     # returns Python dict from JSON
-#     profile = json.loads()
 
-
-# def update_profile(filename, key, value):
-#     # modifies JSON file
-#     pass
+    #     if(line['team1'] == 'Argentina' or line['team2'] == 'Argentina'):
+    #         print(line['team1'], " vs ", line['team2'], " - ", line['date'])
