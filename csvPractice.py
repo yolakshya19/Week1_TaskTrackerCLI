@@ -7,13 +7,13 @@ with open('wc_2026_fixtures.csv', 'r') as file:
     #     if(line['team1'] == 'Argentina' or line['team2'] == 'Argentina'):
     #         print(line['team1'], " vs ", line['team2'], " - ", line['date'])
 
-    fields = ['date', 'team1', 'team2', 'venue']
-    with open('argentina.csv', 'w') as newF:
-        writer = csv.DictWriter(newF, fieldnames=fields)
-        writer.writeheader()
-        for line in csv_read:
-            if(line['team1'] == 'Argentina' or line['team2'] == 'Argentina'):
-                writer.writerow(line)
+    # fields = ['date', 'team1', 'team2', 'venue']
+    # with open('argentina.csv', 'w') as newF:
+    #     writer = csv.DictWriter(newF, fieldnames=fields)
+    #     writer.writeheader()
+    #     for line in csv_read:
+    #         if(line['team1'] == 'Argentina' or line['team2'] == 'Argentina'):
+    #             writer.writerow(line)
 
 print('\nNext\n')
 
@@ -207,7 +207,7 @@ with open('wc_all_matches.csv', 'r', encoding='utf-8') as all_matches:
 
         print(teams)
 
-        for team, stats in teams.items():
+        for team, stats in sorted(teams.items(), key = lambda item: item[1]['wins'], reverse=True):
             writer3.writerow(
                 {
                     "team": team,

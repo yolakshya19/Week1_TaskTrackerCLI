@@ -1,10 +1,7 @@
-h open('all_teams_wins.csv', 'w') as winsT:
-    #     writer = csv.DictWriter(winsT, fieldnames=['team','wins'])
+, 'venue']
+    # with open('argentina.csv', 'w') as newF:
+    #     writer = csv.DictWriter(newF, fieldnames=fields)
     #     writer.writeheader()
-        
-    #     for team, win_c in wins.items():
-    #         writer.writerow({
-    #             'team': team,
-    #             'wins': win_c
-    #         }
-    #         )
+    #     for line in csv_read:
+    #         if(line['team1'] == 'Argentina' or line['team2'] == 'Argentina'):
+    #             writer.writerow(line)
