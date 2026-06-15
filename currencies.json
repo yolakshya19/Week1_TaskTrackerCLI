@@ -1,0 +1,83 @@
+{
+  "ALL": [
+    "Albania"
+  ],
+  "EUR": [
+    "Andorra",
+    "Austria",
+    "Belgium",
+    "Croatia",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Monaco",
+    "Montenegro",
+    "Netherlands",
+    "Portugal",
+    "San Marino",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Vatican City"
+  ],
+  "BYN": [
+    "Belarus"
+  ],
+  "BAM": [
+    "Bosnia and Herzegovina"
+  ],
+  "BGN": [
+    "Bulgaria"
+  ],
+  "CZK": [
+    "Czech Republic"
+  ],
+  "DKK": [
+    "Denmark"
+  ],
+  "HUF": [
+    "Hungary"
+  ],
+  "ISK": [
+    "Iceland"
+  ],
+  "CHF": [
+    "Liechtenstein",
+    "Switzerland"
+  ],
+  "MDL": [
+    "Moldova"
+  ],
+  "MKD": [
+    "North Macedonia"
+  ],
+  "NOK": [
+    "Norway"
+  ],
+  "PLN": [
+    "Poland"
+  ],
+  "RON": [
+    "Romania"
+  ],
+  "RSD": [
+    "Serbia"
+  ],
+  "SEK": [
+    "Sweden"
+  ],
+  "UAH": [
+    "Ukraine"
+  ],
+  "GBP": [
+    "United Kingdom"
+  ]
+}

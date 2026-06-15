@@ -1,0 +1,305 @@
+{
+  "countries": [
+    {
+      "name": "Albania",
+      "capital": "Tirana",
+      "population": 2877797,
+      "eu_member": false,
+      "currency": "ALL"
+    },
+    {
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "population": 77265,
+      "eu_member": false,
+      "currency": "EUR"
+    },
+    {
+      "name": "Austria",
+      "capital": "Vienna",
+      "population": 9006398,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Belarus",
+      "capital": "Minsk",
+      "population": 9449323,
+      "eu_member": false,
+      "currency": "BYN"
+    },
+    {
+      "name": "Belgium",
+      "capital": "Brussels",
+      "population": 11589623,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "population": 3280819,
+      "eu_member": false,
+      "currency": "BAM"
+    },
+    {
+      "name": "Bulgaria",
+      "capital": "Sofia",
+      "population": 6948445,
+      "eu_member": true,
+      "currency": "BGN"
+    },
+    {
+      "name": "Croatia",
+      "capital": "Zagreb",
+      "population": 4105267,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Czech Republic",
+      "capital": "Prague",
+      "population": 10708981,
+      "eu_member": true,
+      "currency": "CZK"
+    },
+    {
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "population": 5792202,
+      "eu_member": true,
+      "currency": "DKK"
+    },
+    {
+      "name": "Estonia",
+      "capital": "Tallinn",
+      "population": 1326535,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Finland",
+      "capital": "Helsinki",
+      "population": 5540720,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "France",
+      "capital": "Paris",
+      "population": 65273511,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Greece",
+      "capital": "Athens",
+      "population": 10423054,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Hungary",
+      "capital": "Budapest",
+      "population": 9660351,
+      "eu_member": true,
+      "currency": "HUF"
+    },
+    {
+      "name": "Iceland",
+      "capital": "Reykjavik",
+      "population": 341243,
+      "eu_member": false,
+      "currency": "ISK"
+    },
+    {
+      "name": "Ireland",
+      "capital": "Dublin",
+      "population": 4937786,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Italy",
+      "capital": "Rome",
+      "population": 60461826,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Latvia",
+      "capital": "Riga",
+      "population": 1886198,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Liechtenstein",
+      "capital": "Vaduz",
+      "population": 38128,
+      "eu_member": false,
+      "currency": "CHF"
+    },
+    {
+      "name": "Lithuania",
+      "capital": "Vilnius",
+      "population": 2722289,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Luxembourg",
+      "capital": "Luxembourg City",
+      "population": 625978,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Malta",
+      "capital": "Valletta",
+      "population": 441543,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Moldova",
+      "capital": "Chi\u00c8\u2122in\u00c4\u0192u",
+      "population": 2657637,
+      "eu_member": false,
+      "currency": "MDL"
+    },
+    {
+      "name": "Monaco",
+      "capital": "Monaco",
+      "population": 39242,
+      "eu_member": false,
+      "currency": "EUR"
+    },
+    {
+      "name": "Montenegro",
+      "capital": "Podgorica",
+      "population": 628066,
+      "eu_member": false,
+      "currency": "EUR"
+    },
+    {
+      "name": "Netherlands",
+      "capital": "Amsterdam",
+      "population": 17134872,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "North Macedonia",
+      "capital": "Skopje",
+      "population": 2083374,
+      "eu_member": false,
+      "currency": "MKD"
+    },
+    {
+      "name": "Norway",
+      "capital": "Oslo",
+      "population": 5421241,
+      "eu_member": false,
+      "currency": "NOK"
+    },
+    {
+      "name": "Poland",
+      "capital": "Warsaw",
+      "population": 37846611,
+      "eu_member": true,
+      "currency": "PLN"
+    },
+    {
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "population": 10196709,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Romania",
+      "capital": "Bucharest",
+      "population": 19237691,
+      "eu_member": true,
+      "currency": "RON"
+    },
+    {
+      "name": "San Marino",
+      "capital": "San Marino",
+      "population": 33931,
+      "eu_member": false,
+      "currency": "EUR"
+    },
+    {
+      "name": "Serbia",
+      "capital": "Belgrade",
+      "population": 8737371,
+      "eu_member": false,
+      "currency": "RSD"
+    },
+    {
+      "name": "Slovakia",
+      "capital": "Bratislava",
+      "population": 5459642,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Slovenia",
+      "capital": "Ljubljana",
+      "population": 2078938,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Spain",
+      "capital": "Madrid",
+      "population": 46754778,
+      "eu_member": true,
+      "currency": "EUR"
+    },
+    {
+      "name": "Sweden",
+      "capital": "Stockholm",
+      "population": 10099265,
+      "eu_member": true,
+      "currency": "SEK"
+    },
+    {
+      "name": "Switzerland",
+      "capital": "Bern",
+      "population": 8654622,
+      "eu_member": false,
+      "currency": "CHF"
+    },
+    {
+      "name": "Ukraine",
+      "capital": "Kyiv",
+      "population": 43733762,
+      "eu_member": false,
+      "currency": "UAH"
+    },
+    {
+      "name": "United Kingdom",
+      "capital": "London",
+      "population": 67886011,
+      "eu_member": false,
+      "currency": "GBP"
+    },
+    {
+      "name": "Vatican City",
+      "capital": "Vatican City",
+      "population": 825,
+      "eu_member": false,
+      "currency": "EUR"
+    }
+  ]
+}

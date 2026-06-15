@@ -1,0 +1,116 @@
+{
+  "EUR": {
+    "country_count": 24,
+    "total_population": 344528938,
+    "largest_country": "Germany",
+    "largest_population": 83783942
+  },
+  "CHF": {
+    "country_count": 2,
+    "total_population": 8692750,
+    "largest_country": "Switzerland",
+    "largest_population": 8654622
+  },
+  "ALL": {
+    "country_count": 1,
+    "total_population": 2877797,
+    "largest_country": "Albania",
+    "largest_population": 2877797
+  },
+  "BYN": {
+    "country_count": 1,
+    "total_population": 9449323,
+    "largest_country": "Belarus",
+    "largest_population": 9449323
+  },
+  "BAM": {
+    "country_count": 1,
+    "total_population": 3280819,
+    "largest_country": "Bosnia and Herzegovina",
+    "largest_population": 3280819
+  },
+  "BGN": {
+    "country_count": 1,
+    "total_population": 6948445,
+    "largest_country": "Bulgaria",
+    "largest_population": 6948445
+  },
+  "CZK": {
+    "country_count": 1,
+    "total_population": 10708981,
+    "largest_country": "Czech Republic",
+    "largest_population": 10708981
+  },
+  "DKK": {
+    "country_count": 1,
+    "total_population": 5792202,
+    "largest_country": "Denmark",
+    "largest_population": 5792202
+  },
+  "HUF": {
+    "country_count": 1,
+    "total_population": 9660351,
+    "largest_country": "Hungary",
+    "largest_population": 9660351
+  },
+  "ISK": {
+    "country_count": 1,
+    "total_population": 341243,
+    "largest_country": "Iceland",
+    "largest_population": 341243
+  },
+  "MDL": {
+    "country_count": 1,
+    "total_population": 2657637,
+    "largest_country": "Moldova",
+    "largest_population": 2657637
+  },
+  "MKD": {
+    "country_count": 1,
+    "total_population": 2083374,
+    "largest_country": "North Macedonia",
+    "largest_population": 2083374
+  },
+  "NOK": {
+    "country_count": 1,
+    "total_population": 5421241,
+    "largest_country": "Norway",
+    "largest_population": 5421241
+  },
+  "PLN": {
+    "country_count": 1,
+    "total_population": 37846611,
+    "largest_country": "Poland",
+    "largest_population": 37846611
+  },
+  "RON": {
+    "country_count": 1,
+    "total_population": 19237691,
+    "largest_country": "Romania",
+    "largest_population": 19237691
+  },
+  "RSD": {
+    "country_count": 1,
+    "total_population": 8737371,
+    "largest_country": "Serbia",
+    "largest_population": 8737371
+  },
+  "SEK": {
+    "country_count": 1,
+    "total_population": 10099265,
+    "largest_country": "Sweden",
+    "largest_population": 10099265
+  },
+  "UAH": {
+    "country_count": 1,
+    "total_population": 43733762,
+    "largest_country": "Ukraine",
+    "largest_population": 43733762
+  },
+  "GBP": {
+    "country_count": 1,
+    "total_population": 67886011,
+    "largest_country": "United Kingdom",
+    "largest_population": 67886011
+  }
+}
